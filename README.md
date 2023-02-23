@@ -2,8 +2,8 @@
 
 # Project Description
 This project is designed to help track payers and points per payer. When a user spends points, there are specific rules for determining what points to "spend" first. They are:
-● We want the oldest points to be spent first (oldest based on transaction timestamp, not the order they’re received)
-● We want no payer's points to go negative.
+1. We want the oldest points to be spent first (oldest based on transaction timestamp, not the order they’re received)
+2. We want no payer's points to go negative.
 
 # How to run the program
 run the program in your terminal by running the command "java Fetch.java <number of points to spend> <transactions csv file name>"
