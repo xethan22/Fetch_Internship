@@ -1,0 +1,23 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+
+I chose to use java as my coding language for this assignment because it is the language I am most comfortable working with.
+I have many years of experience coding in java under my belt so I naturally turned to it here. I used many of the specific 
+libraries in response to the prompt and assignment given at hand. There were many steps to the program that involved importing 
+essential packes such as I/O, and time packages.
+
+
+2. What are the advantages and disadvantages of your solution?
+
+Some advantages of my solutions include that it is quite efficient and simple/short. It tackles the problem presented accurately
+and spends points based on the rules that were given. Additionally, it checks for correct argument inputs, and checks for IO
+Exceptions. A disadvantage of the solution is that it is one dimensional in the sense that it needs a specific number of 
+arguments passed in an in a specific order. 
+
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+
+One of my favorite projects that I have worked on was a project on creating and replicating red black trees. At first, this was
+a challenge to me because it was so different from other search trees that I was used to working with. However, that is also 
+what made it especially interesting to me. There were many more complex operations and steps to consider compared to other search
+trees. While this was a new task at first, it felt great to figure out and see a working model after really understanding how red
+black trees worked in the end.
